@@ -1,0 +1,11 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+    color: whitesmoke;
+    height: 80px;
+    width: 275vh;
+}

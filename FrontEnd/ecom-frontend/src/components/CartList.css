@@ -1,0 +1,55 @@
+.MarginTop {
+    margin-top: 60px;
+}
+
+
+.TextClass {
+    text-align: right;
+    padding-top: 8px;
+}
+
+.AddressButton {
+    background-color: #500303;
+    border-radius: 5px;
+    width: 25vh;
+    height: 8vh;
+    margin-right: 5vh;
+    color: #e7dee6;
+    font-family: Roboto, sans-serif;
+}
+
+.Logo {
+    width: 100px;
+}
+
+.PName {
+    text-align: center;
+}
+
+.Header {
+    margin-top: 30px;
+}
+
+.TotalAmt {
+    text-align: right;
+}
+
+.Ptable {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.Amt {
+    margin-top: 3px;
+}
+
+.AddBtn {
+    margin-left: -75px;
+}
+
+img {
+    width: 100px;
+    min-height: 100px;
+    float: left;
+    margin: 10px;
+}

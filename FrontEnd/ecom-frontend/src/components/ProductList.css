@@ -1,0 +1,11 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.InputSize {
+    width: 70vh;
+    height: 7vh;
+    font-size: medium;
+    font-family: Roboto, sans-serif;
+}

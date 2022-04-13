@@ -1,0 +1,45 @@
+.BoxDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.InnerBox {
+    background-color: #232f3e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    color: aliceblue;
+    height: 80vh;
+    width: 60vh;
+}
+
+.InputBox {
+    background-color: #ffc107;
+    border-radius: 5px;
+    width: 50vh;
+    height: 8vh;
+    font-family: Roboto, sans-serif;
+}
+
+.LoginButton {
+    background-color: #ffc107;
+    border-radius: 5px;
+    width: 15vh;
+    height: 8vh;
+    margin-right: 20vh;
+    color: #232f3e;
+    font-family: Roboto, sans-serif;
+}
+
+.SignUpButton {
+    background-color: #ffc107;
+    border-radius: 5px;
+    width: 15vh;
+    height: 8vh;
+    color: #232f3e;
+    font-family: Roboto, sans-serif;
+}

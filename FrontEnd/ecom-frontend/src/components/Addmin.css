@@ -1,0 +1,43 @@
+.MarginTop {
+    margin-top: 60px;
+}
+
+
+.TextClass {
+    text-align: right;
+    padding-top: 8px;
+}
+
+.CategoryButton {
+    background-color: rgb(70, 5, 149);
+    border-radius: 5px;
+    width: 30vh;
+    height: 8vh;
+    margin-right: 10vh;
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+}
+
+.ProductButton {
+    background-color: #de8d13;
+    border-radius: 5px;
+    width: 30vh;
+    height: 8vh;
+    margin-right: 10vh;
+    color: #232f3e;
+    font-family: Roboto, sans-serif;
+}
+
+.BackButton {
+    background-color: #de8d13;
+    border-radius: 5px;
+    width: 25vh;
+    height: 8vh;
+    margin-right: 10vh;
+    color: #232f3e;
+    font-family: Roboto, sans-serif;
+}
+
+.InnerBox {
+    background-color: #c9eeba;
+}

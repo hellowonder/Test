@@ -1,0 +1,19 @@
+.Box {
+    background-color: #343a40 !important;
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+    width: 60vh;
+    height: 20vh;
+}
+
+input:focus {
+    outline: none !important;
+    border-color: #ffc107;
+    box-shadow: 0 0 10px #ffc107;
+}
+
+textarea:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}

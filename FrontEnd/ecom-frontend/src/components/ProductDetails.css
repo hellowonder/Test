@@ -1,0 +1,62 @@
+.MarginTop {
+    margin-top: 60px;
+}
+
+
+.TextClass {
+    text-align: right;
+    padding-top: 8px;
+}
+
+.AddressButton {
+    background-color: #500303;
+    border-radius: 5px;
+    width: 25vh;
+    height: 8vh;
+    margin-right: 5vh;
+    color: #e7dee6;
+    font-family: Roboto, sans-serif;
+}
+
+.Logo {
+    width: 100px;
+}
+
+.PName {
+    text-align: center;
+}
+
+.AddCart {
+    text-align: right;
+}
+
+
+.ShowButton {
+    background-color: #0e5bce;
+    border-radius: 5px;
+    width: 23vh;
+    height: 7vh;
+    margin-right: 10vh;
+    color: #d3dde8;
+    font-family: Roboto, sans-serif;
+}
+
+.AddCartButton {
+    background-color: #0e5bce;
+    border-radius: 5px;
+    width: 23vh;
+    height: 7vh;
+    margin-right: 10vh;
+    color: #c6c8ca;
+    font-family: Roboto, sans-serif;
+}
+
+.BackButton {
+    background-color: #0e5bce;
+    border-radius: 5px;
+    width: 23vh;
+    height: 7vh;
+    margin-right: 10vh;
+    color: #e3e6ea;
+    font-family: Roboto, sans-serif;
+}

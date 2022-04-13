@@ -1,0 +1,47 @@
+.BoxDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.InnerBox {
+    background-color: #232f3e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    color: aliceblue;
+}
+
+.InputBox {
+    background-color: #ffc107;
+    border-radius: 5px;
+    width: 60vh;
+    height: 8vh;
+    font-family: Roboto, sans-serif;
+}
+
+.lastnav {
+    /* background: darkolivegreen; */
+    background: #232f3e;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 30vh;
+}
+
+.lastnavtextstyle {
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+.lastnavtextstyle:hover {
+    color: blanchedalmond;
+    /* color: red; */
+}

@@ -1,0 +1,39 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+    display: flex;
+    color: whitesmoke;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 80px;
+}
+
+.Homealign {
+    margin-left: 25vh;
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s;
+}
+
+.Cartalign {
+    margin-left: 30vh;
+    margin-right: 5vh;
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s;
+}
+
+.Homealign:hover {
+    color: blanchedalmond;
+    /* color: red; */
+}

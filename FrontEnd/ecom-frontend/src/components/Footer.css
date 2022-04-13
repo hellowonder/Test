@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.lastnav {
+    /* background: darkolivegreen; */
+    background: #232f3e;
+    color: whitesmoke;
+    height: 10vh;
+}
+
+.lastnavtextstyle {
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+.lastnavtextstyle:hover {
+    color: blanchedalmond;
+    /* color: red; */
+}
