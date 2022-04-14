@@ -5,6 +5,7 @@ import { useNavigate, Link } from 'react-router-dom'
 import { Card, Button, Row, Col } from 'react-bootstrap'
 import Navbar from './Navbar'
 import NavBar2 from './NavBar2'
+import './margin.css'
 
 function AdminProductList() {
   const [data, setData] = useState([])
@@ -34,7 +35,7 @@ function AdminProductList() {
                   style={{ width: '18rem' }}
                   className="p-3 m-1 border border-warning"
                 >
-                  <Card.Img src={info.imageURL} />
+                  <Card.Img src={info.imageURL} className="rightmargin" />
                   <Card.Body>
                     <Card.Title>Name : {info.name}</Card.Title>
                     <Card.Text>Desc : {info.description}</Card.Text>

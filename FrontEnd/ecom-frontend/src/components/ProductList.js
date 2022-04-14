@@ -66,9 +66,9 @@ function ProductList() {
                 <Card.Body>
                   <Card.Title>Name: {info.name}</Card.Title>
                   <Card.Text>
-                    <p>Id: {info.id}</p>
+                    {/* <p>Id: {info.id}</p> */}
                     <p>Description: {info.description}</p>
-                    <p>Price: {info.price}</p>
+                    <p>Price: {info.price} USD</p>
                   </Card.Text>
                   {sessionStorage.getItem('token') ? (
                     <Link

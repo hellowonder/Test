@@ -80,7 +80,7 @@ function Login() {
                 </div>
                 <div className="col-md-12 mt-4 px-3 pt-1">
                   <Field
-                    type="text"
+                    type="password"
                     name="password"
                     placeholder="Enter Your password"
                     className="form-control border border-1 border-warning"
